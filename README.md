@@ -1,2 +1,4 @@
 # hello-world
-Firsst Repository
+First Repository
+Commit message that describes your changes
+First time creation of branch
